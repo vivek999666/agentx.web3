@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Logo.png" width="200" alt="AgentX Web3 Logo" />
+  <img src="./logo.png" width="200" alt="AgentX Web3 Logo" />
 </p>
 
 
