@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./Logo.png" width="200" alt="AgentX Web3 Logo" />
+</p>
+
+
 # AgentX.Web3
 
 Official infrastructure for Autonomous AI Agents on Web3.
