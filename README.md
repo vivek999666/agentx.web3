@@ -1,4 +1,4 @@
-![AgentX.Web3 Logo](https://raw.githubusercontent.com/agentxweb3/agentx.web3/main/logo.png)
+![AgentX.Web3 Logo](https://raw.githubusercontent.com/vivek999666/agentx.web3/main/logo.png)
 
 # AgentX.Web3 - Real Web3 Wallet
 Made in Lucknow, India 🇮🇳 | Built on Termux
