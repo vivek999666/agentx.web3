@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./logo.png" width="200" alt="AgentX Web3 Logo" />
+    <img src="https://raw.githubusercontent.com/vivek999666/agentx.web3/main/logo.png" width="300" alt="AgentX Web3 Logo" />
 </p>
 
 
