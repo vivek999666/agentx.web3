@@ -1,20 +1,21 @@
+![AgentX.Web3 Logo](https://raw.githubusercontent.com/agentxweb3/agentx.web3/main/logo.png)
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/vivek999666/agentx.web3/main/logo.png" width="300" alt="AgentX Web3 Logo" />
-</p>
+# AgentX.Web3 - Real Web3 Wallet
+Made in Lucknow, India 🇮🇳 | Built on Termux
 
+The simplest REAL Web3 wallet CLI that generates REAL private keys.
 
-# AgentX.Web3
+## Use
+npx agentx.web3@latest
 
-Official infrastructure for Autonomous AI Agents on Web3.
+Generates:
+- Real ETH/BSC Address
+- Real Private Key
+- 12 Word Mnemonic
 
-- Domain: agentx.web3 (Unstoppable / ENS)
-- Category: AI Agent + Web3 + MCP Server
-- Status: Brand Reserved for Future Development / Sale
+## Support
+UPI: agentxweb3@ybl
+ETH: 0x5e84e10ec63405A4Efa16FAb47415d5Ec06c0F7
 
-Contact for acquisition: vivek999666
----
-### 🙏 Support
-Learning Web3 on phone from Lucknow.
-
-UPI: `agentxweb3@ybl`
+## Author
+AgentX - Lucknow
