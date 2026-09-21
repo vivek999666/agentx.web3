@@ -1,0 +1,25 @@
+{
+  "name": "agentx.web3",
+  "version": "1.0.0",
+  "description": "AgentX Web3 Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek999666/agentx.web3.git"
+  },
+  "keywords": [],
+  "author": "vivek999666",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vivek999666/agentx.web3/issues"
+  },
+  "homepage": "https://github.com/vivek999666/agentx.web3#readme",
+  "funding": {
+    "type": "buy_me_a_coffee",
+    "url": "https://www.buymeacoffee.com/Agentx.web3"
+  }
+}
