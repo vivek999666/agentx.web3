@@ -13,9 +13,12 @@ Generates:
 - Real Private Key
 - 12 Word Mnemonic
 
-## Support
-UPI: agentxweb3@ybl
-ETH: 0x5e84e10ec63405A4Efa16FAb47415d5Ec06c0F7
 
+## ☕ Support
+If you like AgentX Web3, support my work:
+<a href="https://www.buymeacoffee.com/Agentx.web3"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+
+- UPI: agentxweb3@ybl
+- ETH: 0x5e84e10ec63405AEfa16FAb47415dE5c06c0F7
 ## Author
 AgentX - Lucknow
